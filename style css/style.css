@@ -21,6 +21,16 @@ main{
 .background{
   background-color: #F1F1F3;
 }
+/* heder nav */
+.heder-nav {
+	display: flex;
+	justify-content: space-between;
+	margin: 27px 35px;
+}
+.heder-nav, a {
+	text-decoration: none;
+	padding: 10px 10px;
+}
 /* heder, banner section */
 .banner {
   width: 1280px;
@@ -206,9 +216,9 @@ main{
   gap: 24px;
   justify-content: space-around;
 }
-.donate-section .card-group .card{
+/* .donate-section .card-group .card{
 
-}
+} */
 .donate-section .card-group .card h3{
   font-size: 40px;
   font-weight: bold;
