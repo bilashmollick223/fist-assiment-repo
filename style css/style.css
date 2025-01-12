@@ -33,7 +33,7 @@ main{
 }
 /* heder, banner section */
 .banner {
-  width: 1280px;
+  width: 100%;
 	display: flex;
 	background-color: #C6E4D6;
 	border-radius: 15px;
